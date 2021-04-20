@@ -1,6 +1,6 @@
 ﻿#This script is used to remove any old Java versions, and leave only the newest.
 #Developer: Ty Ellis
-#Last Modified by: Ty Ellis
+#Modified by: Ty Ellis
 #Version 1.4 - Updated 2018-03-05
 #			 - Now removes Java 8 and Below.
 #            - Added uninstall default behaviour to never reboot (now uses msiexec.exe for uninstall)
