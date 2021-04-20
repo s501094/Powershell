@@ -3,8 +3,8 @@
 # Created with: 	Powershell v5.1												#
 # Created on:   	4/19/2018													#
 # Created by:   	tylere														#
-# Organization: Infogroup/Landesk Engineering									#
-# Filename: Contractor list populate											#
+# Organization: System Administrator/IAM Lead									#
+# Filename:      Contractor list populate			    						#
 # Discription: searches for users based off contractor listing in office site	#
 =================================================================================
 #>
